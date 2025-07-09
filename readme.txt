@@ -36,7 +36,7 @@ python main.py --symbol BTCUSDT --side SELL --type LIMIT --quantity 0.01 --price
 python main.py --symbol BTCUSDT --side SELL --type STOP --quantity 0.01 --stop_price 73000 --price 72900
 python main.py --symbol BTCUSDT --cancel 12345678
 Logging
-All actions and errors are logged to: futures_bot.log
+All actions and errors are logged to: bot.log
 Requirements
 Python 3.8+
 Binance Testnet API credentials
