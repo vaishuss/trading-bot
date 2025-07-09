@@ -1,0 +1,17 @@
+2025-07-09 15:36:00,579 [INFO]: Spot Bot initialized
+2025-07-09 15:36:01,335 [INFO]: Current BTCUSDT price: 108739.99
+2025-07-09 15:36:01,582 [INFO]: USDT available balance: 9999.9998
+2025-07-09 15:36:01,793 [INFO]: Market order placed: {'symbol': 'BTCUSDT', 'orderId': 3331315, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ9d56450244e8786a1e7a6b', 'transactTime': 1752055561572, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '108.74001000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'BUY', 'workingTime': 1752055561572, 'fills': [{'price': '108740.01000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'BTC', 'tradeId': 449521}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-07-09 15:36:13,828 [INFO]: Spot Bot initialized
+2025-07-09 15:36:14,451 [INFO]: Current BTCUSDT price: 108740.0
+2025-07-09 15:36:14,952 [INFO]: USDT available balance: 9891.25979
+2025-07-09 15:36:15,232 [INFO]: Limit order placed: {'symbol': 'BTCUSDT', 'orderId': 3331458, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ8ddcc872c663feef43940f', 'transactTime': 1752055574933, 'price': '73000.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '108.74000000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'LIMIT', 'side': 'SELL', 'workingTime': 1752055574933, 'fills': [{'price': '108740.00000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 449531}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-07-09 15:36:48,301 [INFO]: Spot Bot initialized
+2025-07-09 15:40:45,948 [INFO]: Spot Bot initialized
+2025-07-09 15:40:46,323 [INFO]: Current BTCUSDT price: 108811.65
+2025-07-09 15:40:46,547 [INFO]: USDT available balance: 9999.99979
+2025-07-09 15:40:46,750 [INFO]: Market order placed: {'symbol': 'BTCUSDT', 'orderId': 3332954, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ22e62d68ae87defd7efd0c', 'transactTime': 1752055846531, 'price': '0.00000000', 'origQty': '0.01000000', 'executedQty': '0.01000000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '1088.11990000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'BUY', 'workingTime': 1752055846531, 'fills': [{'price': '108811.99000000', 'qty': '0.01000000', 'commission': '0.00000000', 'commissionAsset': 'BTC', 'tradeId': 449850}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-07-09 15:40:56,565 [INFO]: Spot Bot initialized
+2025-07-09 15:40:57,187 [INFO]: Current BTCUSDT price: 108811.97
+2025-07-09 15:40:57,424 [INFO]: USDT available balance: 8911.87989
+2025-07-09 15:40:57,646 [INFO]: Limit order placed: {'symbol': 'BTCUSDT', 'orderId': 3332998, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJad9558bdeaebe05e66288b', 'transactTime': 1752055857415, 'price': '75000.00000000', 'origQty': '0.01000000', 'executedQty': '0.01000000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '1088.11970000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'LIMIT', 'side': 'SELL', 'workingTime': 1752055857415, 'fills': [{'price': '108811.97000000', 'qty': '0.01000000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 449861}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
